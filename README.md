@@ -20,7 +20,7 @@
 
 ```yaml
 name       : Bhuresh Parmar
-role       : Aspiring Developer
+role       : Web Developer
 focus      : MERN Stack + DSA + Placement Prep
 learning   : Java • Python • JavaScript • Data Structures
 interests  : Web Development • Open Source • Software Engineering
