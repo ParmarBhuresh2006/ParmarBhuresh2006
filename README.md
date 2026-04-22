@@ -9,8 +9,8 @@
 <br/>
 
 <!-- Profile Views + Followers -->
-![Profile Views](https://komarev.com/ghpvc/?username=ParmarBhuresh2006&style=flat-square&color=6C63FF&label=Profile+Views)
-![GitHub followers](https://img.shields.io/github/followers/ParmarBhuresh2006?style=flat-square&color=6C63FF&labelColor=1a1a2e&label=Followers)
+<!--![Profile Views](https://komarev.com/ghpvc/?username=ParmarBhuresh2006&style=flat-square&color=6C63FF&label=Profile+Views)
+![GitHub followers](https://img.shields.io/github/followers/ParmarBhuresh2006?style=flat-square&color=6C63FF&labelColor=1a1a2e&label=Followers)-->
 
 </div>
 
