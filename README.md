@@ -114,8 +114,8 @@ goal       : Build real-world projects & land a great placement
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer" width="100%" />
+
 
 *"Code. Learn. Build. Repeat."*
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer" width="100%" />
 </div>
